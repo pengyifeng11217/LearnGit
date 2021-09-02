@@ -18,3 +18,5 @@ Git is free software distributed under the GPL.
 >>>>>>> feature
 
 手动修改文件readme.txt文件，解决冲突，
+
+在dev分支上做修改（分支管理策略）
