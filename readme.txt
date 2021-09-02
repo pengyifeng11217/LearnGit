@@ -11,4 +11,10 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
+<<<<<<< HEAD
 在main分支上做修改
+=======
+在feature分支上修改
+>>>>>>> feature
+
+手动修改文件readme.txt文件，解决冲突，
